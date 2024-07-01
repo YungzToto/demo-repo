@@ -1,3 +1,3 @@
 # Quick Demo
 
-This is just a quick description!
+This is just a quick description.
